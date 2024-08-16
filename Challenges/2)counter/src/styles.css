@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.counter {
+  margin: auto;
+  text-align: center;
+}
+.count-box {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+button {
+  height: 30px;
+  width: 50px;
+}

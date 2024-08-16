@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SaveTheShow/static/css/main.dcd6d668.css",
+    "main.js": "/SaveTheShow/static/js/main.842bd701.js",
+    "index.html": "/SaveTheShow/index.html",
+    "main.dcd6d668.css.map": "/SaveTheShow/static/css/main.dcd6d668.css.map",
+    "main.842bd701.js.map": "/SaveTheShow/static/js/main.842bd701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd6d668.css",
+    "static/js/main.842bd701.js"
+  ]
+}
