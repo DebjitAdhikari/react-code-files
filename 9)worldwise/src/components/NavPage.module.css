@@ -1,0 +1,12 @@
+.nav{
+    background-color: hotpink;
+}
+
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap:20px
+}
+.nav :global(.active){
+    background-color: yellow;
+}
